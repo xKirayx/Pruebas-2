@@ -2,5 +2,5 @@
 #include <stdlib.h>
 
 int main() {
-	printf_s("Hola mundo");
+	printf_s("Hola mundo");//con comentario.
 }
